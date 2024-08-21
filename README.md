@@ -14,6 +14,11 @@ Repositório do treinamento: Testes contínuos em Robot Framework no Github Acti
 1. Clonar o repositório, instalar as dependências
 ```
 pip install -r requirements.txt
+
+e rodar o comando: 
+
+rfbrowser init
+
 ```
 
 2. Executar testes em Headless
