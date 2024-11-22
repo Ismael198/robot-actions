@@ -1,8 +1,8 @@
-![poster](./.github/poster.png)
+![poster](https://github.com/Ismael198/robot-actions)
 
 ## Sobre
 
-Repositório do treinamento: Testes contínuos em Robot Framework no Github Actions
+Repositório: Testes contínuos em Robot Framework no Github Actions
 
 ## Techs
 - Robot Framework
